@@ -1,0 +1,53 @@
+body{
+	width: 1000px;
+	height: 666px;
+	margin:auto;
+	background-color:#141b23;
+	
+}
+
+#container{
+	background-color:#141b23;
+}
+
+.bok{
+	
+	float: right;
+
+}
+
+#Header{
+	width: 235px;
+	height: 15px;
+	padding:65px 0 0 55px;
+	display: flex;
+	color: #666e7a;
+
+}
+
+#Author ,#Album ,#Technology{
+	margin-left: 15px;
+}
+
+#Section{
+	color: white;
+	width:465px ;
+	height: 255px;
+	margin:55px 0 0 95px;
+	position: absolute;
+	font-size: 12.8px;
+	line-height: 15.6px;
+}
+
+
+#Footer{
+	height: 50px;
+	margin:520px 0 0 50px; 
+	font-size: 10px;
+	color: #666e7a;
+
+}
+
+h2{
+	margin-bottom:15px;
+}
